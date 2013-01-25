@@ -3,7 +3,6 @@ Clickable-scatter-plot
 
 Matlab code for a scatter plot where you can click the points for more information.
 
-
 % CLICKABLESCATTER Like scatter(), but allows meta-data to be present for each point
 % such that when you click a point something shows to the right of it. The general
 % format is:
